@@ -1,0 +1,104 @@
+body{
+    background-color:rgb(221, 228, 235);
+}
+.project{
+    border-radius: 50%;
+    margin-left: 6%;
+    }
+    .header{
+        background-color:black;
+        margin-top: 0px;
+
+    }
+    .head{
+
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 40px;
+        margin-left: 30px;
+    }
+    .cont{
+        font-size: 28px;  
+        font-weight: bolder;
+        margin-left: 2%;
+      }
+      .conti{
+        font-size: 28px;  
+        font-weight: bolder;
+        margin-left: 4%;
+      }
+.full {
+	
+       
+        margin: 0px;
+        display: grid;
+        grid-template-columns: 1.3fr 4fr;
+    }    
+    .mobile
+    {
+        font-size: 20px;
+       margin-left: 20px;
+    }
+    .foot{
+        font-size: 28px;
+        margin-left: 10px;
+    }
+    .para
+    {
+        margin-left: 55px;
+    }
+    .heart
+    {
+     font-size: 22px; 
+      
+     font-family:'Times New Roman', Times, serif;
+    }
+    .h3Class
+    {
+        font-size: 24px;
+        font-weight:5px;
+    }
+    .h3Class1
+    {
+        font-size: 28px;
+    }
+    .list
+    {
+        font-size: 20px;
+    }
+
+    .right {
+        position: initial;
+        background-color: rgb(54, 144, 46);
+        padding: 100px;
+    
+    }
+    .left {
+        
+        background-color: rgb(194, 223, 246);
+        padding: 50px;
+    
+    }    
+.image{
+    margin-top: 1px;
+    position: initial;
+}
+
+
+
+.objective{
+    margin-top: 15px;
+    margin-left: 20px;
+    
+
+}
+
+.education{
+    
+    margin-left: 20px;
+}
+
+.footer{
+   
+    padding: 1%;
+    background-color:rgb(116, 53, 93);
+}
